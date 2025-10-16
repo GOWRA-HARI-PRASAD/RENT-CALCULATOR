@@ -1,4 +1,4 @@
-# HexSoftwares_Project_RENT-CALCULATOR
+# RENT-CALCULATOR
 
 This program calculates the total rent and other shared expenses for a group of roommates and then divides the total equally among them.
 
